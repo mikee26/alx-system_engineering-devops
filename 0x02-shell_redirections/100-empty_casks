@@ -1,2 +1,2 @@
 #!/bin/bash
-will do tommorrow
+find  /path/to/dest -type f -empty
